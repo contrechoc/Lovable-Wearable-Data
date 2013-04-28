@@ -1,0 +1,131 @@
+body {
+background-image: url(b.png);
+  background-repeat: repeat;
+  width: 1200px;
+}
+
+table {
+}
+
+img {
+	display: block;
+	height: 250px;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+}
+
+img.vest{
+	position:relative;
+	left:-100px;
+	bottom: -50px;
+}
+
+img.dots{
+	position:fixed;
+	left:100px;
+	bottom: 50px;
+}
+
+img.dots2{
+	position:fixed;
+	left:120px;
+	top: 50px;
+}
+
+img.adopt{
+	position:fixed;
+	height: 120px;
+	width: 400px;
+	left:20px;
+	top: 20px;
+}
+
+img.logo{
+	position:fixed;
+	height: 120px;
+	width: 120px;
+	right: 10px;
+	bottom: 10px;
+}
+
+p {
+	 
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+h2.pos_fixed
+{
+	position:relative;
+	left:-50px;
+	font-family: Arial;
+	font-size: 35px;
+ 
+	color:blue;
+}
+
+td {
+    font-family: Garamond, serif;
+	font-size: 14px;
+    border-style: dashed; 
+    border-color: #6495ED; 
+ 
+    border-radius: 5px;
+    margin: auto;
+    background-color: #eeeeff;
+    
+	margin: auto;
+    }
+    
+#choice{
+      text-align: center;
+    }
+
+input {
+	font-family: Garamond, serif;
+	font-size: 12px;
+    height: 30px; 
+    width: 120px;  
+    border-style: dashed; 
+    border-color: #6495ED; 
+    background-color: #BCD2EE;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+form {
+    border-style: dotted solid double dashed; 
+    border-color: #222222; 
+    background-color: #333333;
+    border-radius: 5px;
+    padding: 5px;
+    width: 500px;
+   	margin-left:auto;
+	margin-right:auto;
+  
+    }
+
+div {
+    height: 50px; 
+    width: 120px;  
+    border-style: dashed; 
+    border-color: #6495ED; 
+    background-color: #BCD2EE;
+    border-radius: 5px;
+    margin: auto;
+   
+}
+
+a {
+      text-decoration: none;
+}
+ 
+ #radio{
+  	height: 20px; 
+    width: 30px;  
+ 
+ }
+ 
+ 

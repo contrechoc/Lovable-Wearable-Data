@@ -1,0 +1,9 @@
+Nasa Challenge 2013
+Contrechoc
+
+There is a new vesion of this file.
+
+This file is used to receive data using RF12 transceiver and put the text on 5 liquid crystal displays in the vest
+http://myfablab.wordpress.com/2013/04/17/wearable-nasa-challenge/
+
+it runs on a atmeg328 with RF12 transceiver
